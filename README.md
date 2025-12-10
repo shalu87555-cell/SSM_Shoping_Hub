@@ -82,19 +82,19 @@ div.scroll-container img {
 <img src= "https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(4).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (6).png" alt="Maharashtra" style="200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP.png" alt="Maharashtra" style="100px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (3).png" alt="Maharashtra" style="100px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(6).png" alt="Maharashtra" style="200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP.png" alt="Maharashtra" style="100px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(3).png" alt="Maharashtra" style="100px;height:250px;">
 
 </div> 
 <div class="State">
 <h2>Uttar Pradsh</h2>
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\15.png" style="200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\20.png" alt="Girls cloth" style="200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\25.png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\half12.png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\OIP (1).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\OIP (2).png" alt="Maharashtra" style="200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/15.png" style="200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/20.png" alt="Girls cloth" style="200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/25.png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/half12.png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(2).png" alt="Maharashtra" style="200px;height:250px;">
 
 </div>
 <div class="State">
