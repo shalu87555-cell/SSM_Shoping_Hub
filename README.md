@@ -62,7 +62,7 @@ div.scroll-container img {
   <a href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/sign%20up%20form.html">Sign Up</a>
 </nav>
 
-<body style="background-color:#white">
+<body style="background-color:#pink">
 
 <iframe src="demo_iframe.htm" style="height:25px;width:300px;" title="Iframe Example">Welcome to My First Webpage</iframe>
 
