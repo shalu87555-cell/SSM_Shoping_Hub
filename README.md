@@ -8,7 +8,7 @@
 
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height=:"200" >
 
-<h1 style="color:blue; text-align="Centre";>SSM Shoping Hub</h1></p>
+<p> <h1 style="color:blue; text-align="Centre";>SSM Shoping Hub</h1></p>
 
 <style>
 .State {
@@ -77,6 +77,25 @@ div.scroll-container img {
 <h3>&#128514;</h3>
 
 <p style =text-align: center; "border:10px solid Tomato;","color: blue;"> 
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <div class="login-container">
+    <form action="/action_page.php">
+      <input type="text" placeholder="Username" name="username">
+      <input type="text" placeholder="Password" name="psw">
+      <button type="submit">Login</button>
+    </form>
+  </div>
+</div>
+
+
+
+
+
+
 
 <div class="State">
 <h2>Maharasthra</h2>
