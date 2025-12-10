@@ -3,7 +3,7 @@
 <head>
 <title>SSM webpage</title>
 
-<img src="C:\Users\Shalu\Desktop\Web Page\abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height=:"200" >
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height=:"200" >
 <link rel="stylesheet" href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/style.css"> 
 
 <h1 style="color:blue; text-align="Centre";>SSM Shoping Hub</h1></p>
@@ -81,7 +81,7 @@ div.scroll-container img {
 <p>Mumbai</p>
 <img src= "https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (4).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(4).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (6).png" alt="Maharashtra" style="200px;height:250px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP.png" alt="Maharashtra" style="100px;height:250px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (3).png" alt="Maharashtra" style="100px;height:250px;">
