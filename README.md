@@ -58,8 +58,8 @@ div.scroll-container img {
   <a href="C:\Users\Shalu\Desktop\Web Page\my web.html">Home</a>
   <a href="about.html">About</a>
   <a href="catalog.html">Catalogue</a>
-  <a href="C:\Users\Shalu\Desktop\Web Page\login page.html">Login</a>
-  <a href="C:\Users\Shalu\Desktop\Web Page\sign up form.html">Sign Up</a>
+  <a href=https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/login%20page.html">Login</a>
+  <a href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/sign%20up%20form.html">Sign Up</a>
 </nav>
 
 <body style="background-color:#white">
