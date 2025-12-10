@@ -3,6 +3,9 @@
 <head>
 <title>SSM webpage</title>
 
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height=:"200" >
 <link rel="stylesheet" href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/style.css"> 
 
