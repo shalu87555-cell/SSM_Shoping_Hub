@@ -8,7 +8,6 @@
 
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height=:"200" >
 
-
 <h1 style="color:blue; text-align="Centre";>SSM Shoping Hub</h1></p>
 
 <style>
@@ -154,6 +153,7 @@ Sale </marquee>
 <img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\222.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\256 -.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\312.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
+</marquee>
 </marquee>
 
 <footer>
