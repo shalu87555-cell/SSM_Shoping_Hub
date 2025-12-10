@@ -79,7 +79,7 @@ div.scroll-container img {
 <div class="State">
 <h2>Maharasthra</h2>
 <p>Mumbai</p>
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (1).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src= "https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (2).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (4).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (6).png" alt="Maharashtra" style="200px;height:250px;">
