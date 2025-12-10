@@ -80,7 +80,7 @@ div.scroll-container img {
 <h2>Maharasthra</h2>
 <p>Mumbai</p>
 <img src= "https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(2).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(4).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(6).png" alt="Maharashtra" style="200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP.png" alt="Maharashtra" style="100px;height:250px;">
@@ -99,30 +99,29 @@ div.scroll-container img {
 </div>
 <div class="State">
 <h2>Gujarat</h2>
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\hary-12.jpg" alt="Haryanvi Lehenga" style="150px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\123.jpg" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\222.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\256 -.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\312.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\321.png" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/hary-12.jpg" alt="Cinque Terre" width="200" height="300">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/123.jpg" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/222.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/256.png" alt="Maharashtra" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/312.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/321.png" style="200px;height:300px;">
 
 <div class="scroll-container">
-  <img src="C:\Users\Shalu\Desktop\Web Page\Photo\12.jpg" alt="Cinque Terre" width="200" height="300">
-  <img src="C:\Users\Shalu\Desktop\Web Page\Photo\14.webp" alt="Forest" width="200" height="300">
-  <img src="C:\Users\Shalu\Desktop\Web Page\Photo\15.webp" alt="Forest" width="200" height="300">
-  <img src="C:\Users\Shalu\Desktop\Web Page\Photo\17.webp" alt="Mountains" width="200" height="300">
-  <img src="C:\Users\Shalu\Desktop\Web Page\Photo\20.webp" alt="Mountains" width="200" height="300">
-  <img src="C:\Users\Shalu\Desktop\Web Page\Photo\17.webp" alt="Mountains" width="200" height="300">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\123.jpg" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\222.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\256.png" alt="Maharashtra" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (1).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (2).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (4).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (6).png" alt="Maharashtra" style="200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP.png" alt="Maharashtra" style="100px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (3).png" alt="Maharashtra" style="100px;height:250px;">
-
+  <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/hary-12.jpg" alt="Cinque Terre" width="200" height="300">
+  <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/14.webp" alt="Forest" width="200" height="300">
+  <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/15.webp" alt="Forest" width="200" height="300">
+  <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/17.webp" alt="Mountains" width="200" height="300">
+  <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/20.webp" alt="Mountains" width="200" height="300">
+  <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/17.webp" alt="Mountains" width="200" height="300">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/123.jpg" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/222.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/256.png" alt="Maharashtra" style="200px;height:300px;">
+<img src= "https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(2).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(4).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(6).png" alt="Maharashtra" style="200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP.png" alt="Maharashtra" style="100px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(3).png" alt="Maharashtra" style="100px;height:250px;">
 </div>
 </div>
 
