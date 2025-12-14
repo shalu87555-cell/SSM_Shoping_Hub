@@ -1,22 +1,15 @@
 <!DOCTYPE html>
 <html lang ="en">
 <head>
-<title>SSM webpage</title>
+
 
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height="200">
+<link rel="stylesheet" href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/style.css">
 
 <p> <h1 style="color:blue; text-align="Centre";> SSM Shoping Hub</h1></p>
-
-
-
-<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" " alt="SSM shoping logo" width="100" height=:"200" >
-<link rel="stylesheet" href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/style.css"> 
-
-<h1 style="color:blue; text-align="Centre";>SSM Shoping Hub</h1></p>
-
 
 <style>
 .State {
@@ -36,7 +29,6 @@ text-align: left;
 padding: 15px 30px;
 
 text-decorattion: none;
-
 }
 
 </style>
@@ -74,11 +66,11 @@ div.scroll-container img {
 
 <body style="background-color:#pink">
 
-<iframe src="demo_iframe.htm" style="height:25px;width:300px;" title="Iframe Example">Welcome to My First Webpage</iframe>
+<iframe src="demo_iframe.htm" style="height:25px; width:300px;" title="Iframe Example">Welcome to My First Webpage</iframe>
 
 <h2 style="color:blue;">Welcome to shoping hub</h2>
 
-<form action="/action_page.php">
+<form action="/action_page.php"> hello
   
 </form> 
 
@@ -90,9 +82,10 @@ div.scroll-container img {
   <a class="active" href="#home">Home</a>
   <a href="#about">About</a>
   <a href="#contact">Contact</a>
+</div>
   <div class="login-container">
-    <form action="/action_page.php">
-      <input type="text" placeholder="Username" name="username">
+   <form action="/action_page.php">
+     <input type="text" placeholder="Username" name="username">
       <input type="text" placeholder="Password" name="psw">
       <button type="submit">Login</button>
     </form>
