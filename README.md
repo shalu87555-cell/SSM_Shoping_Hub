@@ -8,7 +8,7 @@
 
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height=:"200" >
 
-<p> <h1 style="color:blue; text-align="Centre";>SSM Shoping Hub</h1></p>
+<p> <h1 style="color:blue; text-align="Centre";> SSM Shoping Hub</h1></p>
 
 <style>
 .State {
@@ -89,12 +89,6 @@ div.scroll-container img {
       <button type="submit">Login</button>
     </form>
   </div>
-</div>
-
-
-
-
-
 
 
 <div class="State">
@@ -151,33 +145,34 @@ div.scroll-container img {
 <marquee class="marq" bgcolor="green" behavior="scroll" direction="left">
 SALE 30%-20%, Men'Cloth  /  20%-40% Women's Cloth </br>
 10%-20 Child's  and discount of evary closth's </b>
-
 </marquee>
-<marquee class="marq" bgcolor="blue" behavior="slide" direction="right">
+
+<marquee class="marq" bgcolor="blue" behavior="slide" direction="right">  
 </marquee>
 
 <marquee class="marq" bgcolor="red" behavior="alternate" direction="up" height="100">
-Sale </marquee>
+Sale Sale </marquee>
 
 <marquee class="marq" bgcolor="pink" behavior="scroll" direction="left" > 
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(3).png" style="100px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(2).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(4).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (3).png" alt="Maharashtra" style="100px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (2).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (4).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Maharasthra\OIP (3).png" alt="Maharashtra" style="100px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\20.png" alt="Girls cloth" style="200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\25.png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\half12.png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\OIP (1).png" alt="Maharashtra" style="width:200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Uttar Pradesh\OIP (2).png" alt="Maharashtra" style="200px;height:250px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\123.jpg" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\222.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\256 -.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
-<img src="C:\Users\Shalu\Desktop\Web Page\Gujarat\312.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/20.png" alt="Girls cloth" style="200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/25.png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/12.jpg" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(2).png" alt="Maharashtra" style="200px;height:250px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/123.jpg" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/222.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/256%20-.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/312.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
 </marquee>
-</marquee>
+
 
 <footer>
 Copy: Copyright 2025. All Rights Reserved.<br>
+  
 </footer>
 </body>
 </html>
