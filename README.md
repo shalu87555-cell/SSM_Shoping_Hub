@@ -6,10 +6,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height="200">
+<img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/abstract-people-logo.jpg" alt="SSM shoping logo" width="100" height="100;">
 <link rel="stylesheet" href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/style.css">
-
-<p> <h1 style="color:blue; text-align="Centre";> SSM Shoping Hub</h1></p>
+<h1 style="color:blue; text-align="Centre";> SSM Shoping Hub</h1>
 
 <style>
 .State {
@@ -56,13 +55,23 @@ div.scroll-container img {
 
 <body>
 
-<nav>
+<div>
   <a href="C:\Users\Shalu\Desktop\Web Page\my web.html">Home</a>
   <a href="about.html">About</a>
   <a href="catalog.html">Catalogue</a>
   <a href=https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/login%20page.html">Login</a>
   <a href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/sign%20up%20form.html">Sign Up</a>
-</nav>
+</div>
+<div class="navbar">
+  <a href="#">Home</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="C:\Users\Shalu\Desktop\Web Page\login page.html" class="right">Login</a>
+  <a href="C:\Users\Shalu\Desktop\Web Page\sign up form.html" class="right">Signup</a>
+ <a href="#" class="right">Contacts</a>
+</div>
+
+
 
 <body style="background-color:#pink">
 
