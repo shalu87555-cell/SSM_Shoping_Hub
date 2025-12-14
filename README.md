@@ -25,8 +25,7 @@
 
 
 <body style="background-color:#pink">
-
-<iframe src=" " style="height:25px; width:300px;" title="Iframe Example";>Welcome to My First Webpage</iframe>
+<h1 style="color:blue; text-align="Centre";> Welcome to My First Webpage</h1>
 
 <h2 style="color:blue;">Welcome to shoping hub</h2>
 
