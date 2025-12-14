@@ -116,8 +116,8 @@ div.scroll-container img {
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/half12.png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(1).png" alt="Maharashtra" style="width:200px;height:250px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/OIP%20(2).png" alt="Maharashtra" style="200px;height:250px;">
-
 </div>
+
 <div class="State">
 <h2>Gujarat</h2>
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/hary-12.jpg" alt="Cinque Terre" width="200" height="300">
@@ -126,6 +126,7 @@ div.scroll-container img {
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/256.png" alt="Maharashtra" style="200px;height:300px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/312.png" alt="Haryanvi Lehenga" style="200px;height:300px;">
 <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/321.png" style="200px;height:300px;">
+</div>
 
 <div class="scroll-container">
   <img src="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/hary-12.jpg" alt="Cinque Terre" width="200" height="300">
