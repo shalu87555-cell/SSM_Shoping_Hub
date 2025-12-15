@@ -21,6 +21,9 @@
   <a href="catalog.html">Catalogue</a>
   <a href=https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/login%20page.html">Login</a>
   <a href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/sign%20up%20form.html">Sign Up</a>
+  <a href="C:\Users\Shalu\Desktop\Web Page\login page.html" class="right">Login</a>
+  <a href="C:\Users\Shalu\Desktop\Web Page\sign up form.html" class="right">Signup</a>
+ <a href="#" class="right">Contacts</a>
 </div>
 
 <h1 style="color:blue; text-align="Centre";> Welcome to My First Webpage</h1>
