@@ -11,11 +11,16 @@
 <h1 style="color:blue; text-align="Centre";> SSM Shoping Hub</h1>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+.navbar {
+  overflow: hidden;
+  background-color: #256384;
+}
 </head>
 
 <body>
 <body style="background-color:#FF00FF">
-<div>
+<div class="navbar">
   <a href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/my%20web.html">Home</a>
   <a href="about.html">About</a>
   <a href="catalog.html">Catalogue</a>
