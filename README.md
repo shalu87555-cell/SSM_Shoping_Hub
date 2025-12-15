@@ -14,7 +14,7 @@
 </head>
 
 <body>
-
+<body style="background-color:#FF00FF">
 <div>
   <a href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/my%20web.html">Home</a>
   <a href="about.html">About</a>
@@ -23,25 +23,16 @@
   <a href="https://github.com/shalu87555-cell/SSM_Shoping_Hub/blob/main/sign%20up%20form.html">Sign Up</a>
 </div>
 
-
-<body style="background-color:#pink">
 <h1 style="color:blue; text-align="Centre";> Welcome to My First Webpage</h1>
-
 <h2 style="color:blue;">Welcome to shoping hub</h2>
 
-<form action="/action_page.php"> hello
-  
+<form action="/action_page.php">
 </form> 
 
 <h3>&#128514;</h3>
 
 <p style =text-align: center; "border:10px solid Tomato;","color: blue;"> 
 
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
-</div>
   <div class="login-container">
    <form action="/action_page.php">
      <input type="text" placeholder="Username" name="username">
